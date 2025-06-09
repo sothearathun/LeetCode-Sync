@@ -1,10 +1,5 @@
 ﻿# LeetCode-Sync
 
- I solve LeetCode problems with JAVA.
- i'll do it in other language too, like C++ (i kinda forget it now)
- but i'll learn it again
- and Python/JavaScript.
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
